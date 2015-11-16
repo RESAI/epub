@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<documento>
+  <cabeca>
+    <titulo>Meu primeiro arquivo XML</titulo>
+  </cabeca>
+  <corpo>
+    <mensagem numero="1">Olá Mundo!</mensagem>
+    <mensagem numero="2">Este é meu primeiro arquivo XML!</mensagem>
+    <sem_conteudo />
+  </corpo>
+</documento>
